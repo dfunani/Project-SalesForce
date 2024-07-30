@@ -1,0 +1,23 @@
+{
+  "name": "salesforce",
+  "version": "1.0.0",
+  "description": "Sales management desktop application. Users interact with the app based on predefined roles.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfunani/Project-SalesForce.git"
+  },
+  "author": "Delali Funani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dfunani/Project-SalesForce/issues"
+  },
+  "homepage": "https://github.com/dfunani/Project-SalesForce#readme",
+  "devDependencies": {
+    "electron": "^24.1.1"
+  }
+}
